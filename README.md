@@ -31,3 +31,4 @@ I'm an accomplished IT professional with over 6 years of experience. Currently, 
     * <a href="https://github.com/iurii-aksenov"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /></a> [https://github.com/iurii-aksenov](https://github.com/iurii-aksenov)
     * <a href="mailto:iurii.axenov@gmail.com">📫</a> [iurii.axenov@gmail.com](mailto:iurii.axenov@gmail.com)
 *   🤝  I'm passionate about developing new projects and startups and eager to continue growing professionally alongside an ambitious team
+*   <a href="https://drive.google.com/file/d/1K5W_NDGA5GrjgQ-ItD5n0xbjdyqNincr/view?usp=drive_link">👨‍💻</a> My [CV Iurii Aksenov](https://drive.google.com/file/d/1K5W_NDGA5GrjgQ-ItD5n0xbjdyqNincr/view?usp=drive_link)
