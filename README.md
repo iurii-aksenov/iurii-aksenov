@@ -29,5 +29,5 @@ I'm an accomplished IT professional with over 6 years of experience. Currently, 
 *   ✉️  You can contact me at
     * <a href="https://www.linkedin.com/in/iurii-aksenov/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a> [https://www.linkedin.com/in/iurii-aksenov/](https://www.linkedin.com/in/iurii-aksenov/)
     * <a href="https://github.com/iurii-aksenov"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="16" height="16" /></a> [https://github.com/iurii-aksenov](https://github.com/iurii-aksenov)
-    * <a href="mailto:iurii.axenov@gmail.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="16" height="16" /></a> [iurii.axenov@gmail.com](mailto:iurii.axenov@gmail.com)
+    * <a href="mailto:iurii.axenov@gmail.com">📫</a> [iurii.axenov@gmail.com](mailto:iurii.axenov@gmail.com)
 *   🤝  I'm passionate about developing new projects and startups and eager to continue growing professionally alongside an ambitious team
