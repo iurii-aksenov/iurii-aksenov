@@ -2,7 +2,7 @@ Hi ! <a href="https://github.com/iurii-aksenov" target="_blank" rel="noreferrer"
 ===================================================================================================================================
 Team Lead C# in FinTech / Senior Software Engineer 
 ---------------------------------------------------
-> 📅 <em>**If you want to chat with me, schedule a short 30-minute meeting [here]([https://calendly.com/d/ysc-fmn-ydv/chat-with-egor-30-minute-meeting](https://calendly.com/iurii-aksenov/30min)).**</em>
+> 📅 <em>**If you want to chat with me, schedule a short 30-minute meeting [here](https://calendly.com/iurii-aksenov/30min).**</em>
 
 I'm an accomplished IT professional with over 6 years of experience. Currently, I am working as a Team Lead at B2Broker, where I excel in hiring and managing talented individuals, delegating tasks, and providing clear task descriptions. In my previous role as a Senior Software Engineer (C#) at Ozon Tech, I worked on a leading Russian e-commerce platform akin to Amazon. My background as a Chief Technology Officer in various startups has honed my expertise in addressing real-world challenges and developing practical solutions.
 
