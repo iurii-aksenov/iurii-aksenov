@@ -11,16 +11,31 @@ I'm an accomplished IT professional with over 6 years of experience. Currently, 
 - Creating a B2B SaaS product utilized by 3,700 users across 640 companies;
 - Launching an MVP for a social network with a user base of 11,000.
 
-### My areas of expertise encompass:
-- Leadership and team building;
+### My areas of expertise include::
+#### Technical Skills:
+- .NET/C# programming;
+- SQL, PostgreSQL, MS SQL database management;
+- NoSQL, MongoDB database management;
+- Redis;
+- Apache Kafka and RabbitMq;
+- ASP.Core, EFCore;
+- Microservices;
 - Efficiency optimization;
+- Software architecture;
+- System architecture;
+- Database architecture;
+- Flutter and Dart;
+- Javascript;
+- Python.
+
+#### Soft skills
+- Leadership and team building;
+- Recruiting, onboarding;
+- Hiring and termination processes;
+- Agile and Scrum methodologies;
 - Organizational skills and promoting organization in others;
 - Strategic planning and goal setting;
 - Mentorship and guidance;
-- Software architecture;
-- .NET/C# programming;
-- SQL Server and NoSQL database management;
-- Agile methodologies;
 - Product and project management.
 
 ### Feel free to connect with me here or on LinkedIn! :)
