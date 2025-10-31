@@ -1,15 +1,7 @@
 Hi ! <a href="https://github.com/iurii-aksenov" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_1f64c.gif" width="50" height="50" /></a> My name is Yurii Aksenov
 ===================================================================================================================================
-Team Lead C# in FinTech / Senior Software Engineer 
----------------------------------------------------
-> 📅 <em>**If you want to chat with me, schedule a short 30-minute meeting [here](https://calendly.com/iurii-aksenov/30min).**</em>
+CTO at Emex Group
 
-I'm an accomplished IT professional with over 6 years of experience. Currently, I am working as a Team Lead at B2Broker, where I excel in hiring and managing talented individuals, delegating tasks, and providing clear task descriptions. In my previous role as a Senior Software Engineer (C#) at Ozon Tech, I worked on a leading Russian e-commerce platform akin to Amazon. My background as a Chief Technology Officer in various startups has honed my expertise in addressing real-world challenges and developing practical solutions.
-
-### Some of my achievements include:
-- Developing a feature that increased savings 18-fold, resulting in $58 million annually;
-- Creating a B2B SaaS product utilized by 3,700 users across 640 companies;
-- Launching an MVP for a social network with a user base of 11,000.
 
 ### My areas of expertise include::
 #### Technical Skills:
